@@ -5,6 +5,7 @@ Makers and users are welcome to add listings through pull requests.
 
 ## Contents
 
+- [Affiliate & Partner Marketing](#affiliate--partner-marketing)
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
@@ -12,6 +13,10 @@ Makers and users are welcome to add listings through pull requests.
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
+
+## Affiliate & Partner Marketing
+
+- **[Power CM Partners](https://partners.powercm-software.com/)** — Affiliate and creator network for software products with tracked campaign links, attributed registrations, verified eligible sales and commission reporting. `Free` `🇩🇪`
 
 ## Civic Tech & Open Data
 
